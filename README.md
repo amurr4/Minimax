@@ -2,7 +2,7 @@
 
 ### Overview
 
-Welcome to my Data Science Portfolio! This repository showcases my project, the Minimax algorithm with Alpha-Beta Pruning in Tic-Tac-Toe.
+Welcome to my Data Science Portfolio! This repository showcases my project, the minimax algorithm with Alpha-Beta Pruning in Tic-Tac-Toe.
 
 ### Project: Minimax algorithm and Alpha-Beta Pruning in Tic-Tac-Toe
 
