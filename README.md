@@ -10,10 +10,4 @@ Tic-Tac-Toe is a two player game where players take turns marking the spaces in 
 Visual Studio, Python
 
 ### Expected Outcomes
-Implementation of a functional two-player Tic-Tac-Toe game in Python using Visual Studio.
-Integration of the Minimax algorithm to enable the computer player to make optimal moves by considering multiple future possibilities.
-Successful application of Alpha-beta pruning to enhance computational efficiency by reducing the search space during the computer's decision-making process.
-Demonstration of the computer's ability to strategically maximize its score while minimizing the opponent's score, showcasing the effectiveness of the Minimax algorithm.
-A user-friendly gaming experience that allows human players to compete against the computer, highlighting the challenges posed by the computer's advanced lookahead capabilities.
-Increased understanding of game theory, algorithmic decision-making, and the practical application of artificial intelligence concepts in game development.
-Completion of the project within Visual Studio, showcasing proficiency in Python programming and algorithm implementation for game development.
+The creation of a user-friendly gaming experience that allows human players to compete against the computer, highlighting the challenges posed by the computer's advanced lookahead capabilities. The integration of the Minimax algorithm to enable the computer player to make optimal moves by considering multiple future possibilities. Successful application of Alpha-beta pruning that enhances the computational efficiency of the algorithm by reducing the search space during the computer's decision-making process. And overall, an increased understanding of game theory, algorithmic decision-making, and the application of artificial intelligence concepts in game development.
