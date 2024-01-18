@@ -1,5 +1,9 @@
 # Minimax algorithm and Alpha-Beta Pruning Tic-Tac-Toe
 
+Author: Annika Murray
+
+Portfolio Webpage: https://amm7548.wixsite.com/am-portfoliom-ds
+
 ### Overview
 Welcome to my Data Science Portfolio! This repository showcases my project, the minimax algorithm with Alpha-Beta Pruning in Tic-Tac-Toe.
 
